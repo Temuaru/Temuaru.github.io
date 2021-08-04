@@ -1,2 +1,2 @@
-# Temuaru.github.io
-my first website
+# Temuaru
+my projects
